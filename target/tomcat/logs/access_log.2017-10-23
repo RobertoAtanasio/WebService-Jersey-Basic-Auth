@@ -1,0 +1,4 @@
+0:0:0:0:0:0:0:1 - - [23/Oct/2017:08:43:33 -0300] "GET /exemplo/webapi/imoveis HTTP/1.1" 200 320 http-bio-8080-exec-1 2893
+0:0:0:0:0:0:0:1 - - [23/Oct/2017:08:43:51 -0300] "POST /exemplo/webapi/imoveis/1 HTTP/1.1" 405 1013 http-bio-8080-exec-2 11
+0:0:0:0:0:0:0:1 - - [23/Oct/2017:08:43:56 -0300] "POST /exemplo/webapi/imoveis/ HTTP/1.1" 201 113 http-bio-8080-exec-3 163
+0:0:0:0:0:0:0:1 - - [23/Oct/2017:08:44:02 -0300] "GET /exemplo/webapi/imoveis HTTP/1.1" 200 434 http-bio-8080-exec-4 5

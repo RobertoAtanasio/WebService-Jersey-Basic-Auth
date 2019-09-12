@@ -1,0 +1,12 @@
+C:\DevMedia\Cursos\Autenticação em Web Services RESTful\Projeto\autenticacao-ws-restful\src\main\java\br\com\devmedia\webservice\domain\Imovel.java
+C:\DevMedia\Cursos\Autenticação em Web Services RESTful\Projeto\autenticacao-ws-restful\src\main\java\br\com\devmedia\webservice\domain\Direcionamento.java
+C:\DevMedia\Cursos\Autenticação em Web Services RESTful\Projeto\autenticacao-ws-restful\src\main\java\br\com\devmedia\webservice\service\ImovelService.java
+C:\DevMedia\Cursos\Autenticação em Web Services RESTful\Projeto\autenticacao-ws-restful\src\main\java\br\com\devmedia\webservice\service\UsuarioService.java
+C:\DevMedia\Cursos\Autenticação em Web Services RESTful\Projeto\autenticacao-ws-restful\src\main\java\br\com\devmedia\webservice\domain\Usuario.java
+C:\DevMedia\Cursos\Autenticação em Web Services RESTful\Projeto\autenticacao-ws-restful\src\main\java\br\com\devmedia\webservice\resources\filter\AuthenticationFilter.java
+C:\DevMedia\Cursos\Autenticação em Web Services RESTful\Projeto\autenticacao-ws-restful\src\main\java\br\com\devmedia\webservice\domain\ErrorMessage.java
+C:\DevMedia\Cursos\Autenticação em Web Services RESTful\Projeto\autenticacao-ws-restful\src\main\java\br\com\devmedia\webservice\dao\ImovelDAO.java
+C:\DevMedia\Cursos\Autenticação em Web Services RESTful\Projeto\autenticacao-ws-restful\src\main\java\br\com\devmedia\webservice\dao\JPAUtil.java
+C:\DevMedia\Cursos\Autenticação em Web Services RESTful\Projeto\autenticacao-ws-restful\src\main\java\br\com\devmedia\webservice\dao\UsuarioDAO.java
+C:\DevMedia\Cursos\Autenticação em Web Services RESTful\Projeto\autenticacao-ws-restful\src\main\java\br\com\devmedia\webservice\resources\filter\AcessoRestrito.java
+C:\DevMedia\Cursos\Autenticação em Web Services RESTful\Projeto\autenticacao-ws-restful\src\main\java\br\com\devmedia\webservice\resources\ImovelResource.java

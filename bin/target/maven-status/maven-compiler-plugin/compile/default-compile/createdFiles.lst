@@ -1,0 +1,16 @@
+br\com\devmedia\webservice\domain\Imovel.class
+br\com\devmedia\webservice\service\UsuarioService.class
+br\com\devmedia\webservice\dao\ImovelDAO.class
+br\com\devmedia\webservice\resources\ImovelResource.class
+br\com\devmedia\webservice\service\ImovelService.class
+br\com\devmedia\webservice\resources\beans\ConfiguracaoConsultaBean.class
+br\com\devmedia\webservice\domain\Direcionamento.class
+br\com\devmedia\webservice\resources\filter\AcessoRestrito.class
+br\com\devmedia\webservice\resources\filter\AuthenticationFilter.class
+br\com\devmedia\webservice\resources\BuscaResource.class
+br\com\devmedia\webservice\domain\ErrorMessage.class
+br\com\devmedia\webservice\domain\Usuario.class
+br\com\devmedia\webservice\resources\UsuarioResource.class
+br\com\devmedia\webservice\dao\JPAUtil.class
+br\com\devmedia\webservice\dao\UsuarioDAO.class
+br\com\devmedia\webservice\domain\Tipo.class

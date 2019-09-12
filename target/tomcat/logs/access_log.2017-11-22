@@ -1,0 +1,1 @@
+0:0:0:0:0:0:0:1 - - [22/Nov/2017:10:13:21 -0300] "POST /exemplo/webapi/usuarios/3/imoveis HTTP/1.1" 201 104 http-bio-8080-exec-2 3043
